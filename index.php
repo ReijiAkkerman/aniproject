@@ -20,5 +20,7 @@
         <!-- End Google Tag Manager (noscript) -->
 
         <h1>validation hello</h1>
+        <button>button</button>
+        <button>another button</button>
     </body>
 </html>
