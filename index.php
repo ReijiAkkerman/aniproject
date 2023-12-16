@@ -4,6 +4,6 @@
         <meta charset="utf-8">
     </head>
     <body>
-        <h1>Greetings</h1>
+        <h1>hello</h1>
     </body>
 </html>
