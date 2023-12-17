@@ -2,6 +2,7 @@
 <html>
     <head>
         <meta charset="utf-8">
+        <title>aniproject.ru harukimatsupepepe</title>
     </head>
     <body>
         <h1>Просто одностраничный сайт с некоторым содержанием</h1>
